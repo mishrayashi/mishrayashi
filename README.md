@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yashi Mishra
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Databricks
+- 😄 Pronouns: She/Her
