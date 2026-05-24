@@ -20,14 +20,14 @@
 
 ### About Me
 
-I'm an **AI & Data Engineer** based in Jaipur, India, with 4 years of experience bridging large-scale data engineering with production AI systems. I work across **Python (PySpark), SQL, Databricks**, and cloud-native architectures on **Azure / GCP / AWS**, with a focus on **data quality** and **real-time pipelines**.
+I'm an **AI & Data Engineer** based in India, with over 4 years of experience bridging large-scale data engineering with production AI systems. I work across **Python (PySpark), SQL, Databricks**, and cloud-native architectures on **Azure / GCP / AWS**, with a focus on **data quality** and **real-time pipelines**.
 
 I've delivered onsite with ministry stakeholders in **Dubai and Abu Dhabi**, translating government-level requirements into production data systems across UAE / UK / India time zones.
 
 ```yaml
 name:        Yashi Mishra
-role:        AI & Data Engineer @ FiftyFive Technologies
-location:    Jaipur, India  →  delivering globally (UAE • UK • IN)
+role:        AI & Data Engineer
+location:    India  →  delivering globally (UAE • UK • IN)
 focus:       Data Quality • Real-Time Pipelines • LLM & Voice AI
 education:   B.Tech, Computer Science — GLA University (81.9%)
 currently:   Fine-tuning multilingual LLMs · Voice AI architectures · Medallion pipelines
