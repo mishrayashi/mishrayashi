@@ -30,7 +30,7 @@ role:        AI & Data Engineer
 location:    India  →  delivering globally (UAE • UK • IN)
 focus:       Data Quality • Real-Time Pipelines • LLM & Voice AI
 education:   B.Tech, Computer Science — GLA University (81.9%)
-currently:   Fine-tuning multilingual LLMs · Voice AI architectures · Medallion pipelines
+currently:   Researching data · Creating architectures · Medallion pipelines
 ask-me-about: Microsoft Fabric, Databricks, PySpark, RAG, Whisper/Deepgram/ElevenLabs
 ```
 
